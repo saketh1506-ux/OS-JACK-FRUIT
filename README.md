@@ -20,7 +20,7 @@ A lightweight Linux container runtime written in C, featuring a long-running sup
 | Name          | SRN           |
 | ------------- | ------------- |
 | N. Sai Saketh | PES2UG24CS292 |
-| Nandu Kishore | PES2UG24CS291 |
+| Nandakishore PV | PES2UG24CS291 |
 
 ---
 

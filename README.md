@@ -148,7 +148,7 @@ Place all images inside a folder named `screenshots/`.
 | Soft-limit warning          | ![](screenshots/os_5.jpeg) <br> ![](screenshots/os_5_2.png) |
 | Hard-limit enforcement      | ![](screenshots/os_6.jpeg)                                    |
 | Scheduling experiment       | ![](screenshots/os_7.jpeg)                                    |
-| Clean teardown              | ![](screenshots/os_8.jpeg)                                  |
+| Clean teardown              | ![](screenshots/os_8.jpeg)<br> ![](screenshots/os_8_1.jpeg)                            |
 
 ---
 
